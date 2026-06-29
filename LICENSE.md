@@ -1,4 +1,4 @@
-# 
+# Top Letta (MemGPT) outils. Avec mémoire contextuelle et recherche sémantique — optimisé pour des performances et une efficacité maximales.
 
 
 
